@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 20.99,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Short description of Product 1."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 35.50,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "description": "Short description of Product 2."
+    }
+  ]
